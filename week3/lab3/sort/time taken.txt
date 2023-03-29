@@ -1,0 +1,11 @@
+For an unsorted list:
+
+Sort 1 - 0.075s
+Sort 2 - 0.718s (Merge Sort)
+Sort 3 - 3.533s
+
+For a sorted list:
+
+Sort 1 - 0.855s (Bubble sort)
+Sort 2 - 0.757s
+Sort 3 - 3.422s (Selection sort)
